@@ -1,0 +1,10 @@
+﻿  Vegetable.cpp
+  Tree.cpp
+  Plant.cpp
+  Garden.cpp
+  Fruit.cpp
+  Flower.cpp
+  driver.cpp
+c:\users\sasha\documents\projects\garden\garden\driver.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  garden.vcxproj -> C:\Users\Sasha\Documents\projects\garden\Debug\garden.exe
